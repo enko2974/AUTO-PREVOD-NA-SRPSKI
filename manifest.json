@@ -1,0 +1,17 @@
+{
+  "id": "org.subtitlecat.serbianlatin",
+  "version": "4.0.0",
+  "name": "SubtitleCat Serbian Latin AI",
+  "description": "Automatic English to Serbian Latin subtitle translation with Gemini AI",
+  "logo": "https://www.stremio.com/website/stremio-logo-small.png",
+  "resources": [
+    "subtitles"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
